@@ -7,7 +7,7 @@ slug: /research
 ### Paper
 * [**The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.**](https://arxiv.org/abs/2304.14557)
 
-  **Austen Z. Fan**, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
+  Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
 
   *Accepted by International Colloquium on Automata, Languages and Programming, 2023.*
 
