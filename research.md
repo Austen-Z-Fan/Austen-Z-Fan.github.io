@@ -4,7 +4,7 @@ title: Research
 slug: /research
 ---
 
-# Publication
+### Publication
 The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.
 
 **Austen Z. Fan**, Paraschos Koutris, Hangdong Zhao.
@@ -51,6 +51,6 @@ Dichotomy Result on 3-Regular Bipartite Non-negative Functions.
 
 **Austen Z. Fan**, Jin-Yi Cai
 
-# Services
+### Services
 Subreviewer: ESA 2023
 
