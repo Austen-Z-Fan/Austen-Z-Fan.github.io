@@ -22,7 +22,7 @@ slug: /research
 
   **Austen Z. Fan**, Paraschos Koutris.
 
-  *Accepted by International Conference on Database Theory, 2022.* [\[Slides\]](assets/slides/ICDT_2022_Presentation.pdf)
+  *Accepted by International Conference on Database Theory, 2022.* \[[Slides](assets/slides/ICDT_2022_Presentation.pdf) by me\]
 
   *Talk on Database Affiliate Workshop @UW-Madison, 2022.*  [\[Slides\]](assets/slides/ICDT_2022_Presentation.pdf)
 
