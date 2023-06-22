@@ -26,6 +26,29 @@ Certifiable Robustness for Nearest Neighbor Classifiers.
 
 *Accepted by International Conference on Database Theory, 2022.*
 
+<br />
+
+Bipartite 3-Regular Counting Problems with Mixed Signs.
+
+Jin-Yi Cai, **Austen Z. Fan**, Yin Liu.
+
+*Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* 
+*Invited to Journal of Computer and System Sciences.*
+
+<br />
+
+A Prioritized Trajectory Planning Algorithm for Connected and Automated Vehicle Mandatory Lane Changes.
+
+Nachuan Li, **Austen Z. Fan**, Riley Fischer, Wissam Kontar, Bin Ran
+
+*Accepted by IEEE International Conference on Intelligent Transportation Systems, 2021.*
+
+<br />
+
+Dichotomy Result on 3-Regular Bipartite Non-negative Functions.
+
+**Austen Z. Fan**, Jin-Yi Cai
+
 # Services
 ## Subreviewer: ESA 2023
 
