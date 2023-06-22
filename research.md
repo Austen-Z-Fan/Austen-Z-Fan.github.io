@@ -40,7 +40,7 @@ slug: /research
 
   Nachuan Li, **Austen Z. Fan**, Riley Fischer, Wissam Kontar, Bin Ran
 
-  *Accepted by IEEE International Conference on Intelligent Transportation Systems, 2021.*
+  *Accepted by IEEE International Conference on Intelligent Transportation Systems, 2021.* [[Slides](assets/slides/ITSC_2021_Presentation.pdf) be Nachuan]
 
 
 * [**Dichotomy Result on 3-Regular Bipartite Non-negative Functions.**](https://www.sciencedirect.com/science/article/abs/pii/S0304397523000580)
