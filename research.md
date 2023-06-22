@@ -4,7 +4,7 @@ title: Research
 slug: /research
 ---
 
-### Publication
+### Paper
 * [**The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.**](https://arxiv.org/abs/2304.14557)
 
   Austen Z. Fan, Paraschos Koutris, Hangdong Zhao.
@@ -49,6 +49,6 @@ slug: /research
   *Accepted by Theoretical Computer Science.*
 
 
-### Services
+### Service
 Subreviewer: ESA 2023
 
