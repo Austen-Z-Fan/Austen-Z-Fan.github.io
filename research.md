@@ -31,7 +31,7 @@ slug: /research
 
   Jin-Yi Cai, **Austen Z. Fan**, Yin Liu.
 
-  *Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* [[Slides](assets/slides/FCT_2021_Presentation.pdf) be me]
+  *Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* [[Slides](assets/slides/FCT_2021_Presentation.pdf) by me]
 
   *Invited to Journal of Computer and System Sciences.*
   
@@ -47,7 +47,7 @@ slug: /research
 
   **Austen Z. Fan**, Jin-Yi Cai
 
-  *Accepted by International Computer Science Symposium in Russia, 2021.*
+  *Accepted by International Computer Science Symposium in Russia, 2021.* [[Slides](assets/slides/CSR_2021_Presentation.pdf) by me]
 
   *Accepted by Theoretical Computer Science.*
 
