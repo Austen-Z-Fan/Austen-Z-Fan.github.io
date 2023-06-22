@@ -8,6 +8,7 @@ slug: /research
 The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.
 
 **Austen Z. Fan**, Paraschos Koutris, Hangdong Zhao.
+
 *Accepted by International Colloquium on Automata, Languages and Programming, 2023.*
 
 <br />
@@ -33,6 +34,7 @@ Bipartite 3-Regular Counting Problems with Mixed Signs.
 Jin-Yi Cai, **Austen Z. Fan**, Yin Liu.
 
 *Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* 
+
 *Invited to Journal of Computer and System Sciences.*
 
 <br />
@@ -50,5 +52,5 @@ Dichotomy Result on 3-Regular Bipartite Non-negative Functions.
 **Austen Z. Fan**, Jin-Yi Cai
 
 # Services
-## Subreviewer: ESA 2023
+Subreviewer: ESA 2023
 
