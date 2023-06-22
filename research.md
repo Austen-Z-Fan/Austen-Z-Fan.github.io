@@ -5,7 +5,7 @@ slug: /research
 ---
 
 ### Publication
-**The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.**
+* **The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.**
 
 Austen Z. Fan, Paraschos Koutris, Hangdong Zhao.
 
@@ -13,7 +13,7 @@ Austen Z. Fan, Paraschos Koutris, Hangdong Zhao.
 
 <br />
 
-**Properties of Position Matrices and Their Elections.**
+* **Properties of Position Matrices and Their Elections.**
 
 Niclas Boehmer, Jin-Yi Cai, Piotr Faliszewski, Austen Z. Fan, Andrzej Kaczmarczyk, Tomasz Was.
 
@@ -21,7 +21,7 @@ Niclas Boehmer, Jin-Yi Cai, Piotr Faliszewski, Austen Z. Fan, Andrzej Kaczmarczy
 
 <br />
 
-**Certifiable Robustness for Nearest Neighbor Classifiers.**
+* **Certifiable Robustness for Nearest Neighbor Classifiers.**
 
 Austen Z. Fan, Paraschos Koutris.
 
@@ -29,7 +29,7 @@ Austen Z. Fan, Paraschos Koutris.
 
 <br />
 
-**Bipartite 3-Regular Counting Problems with Mixed Signs.**
+* **Bipartite 3-Regular Counting Problems with Mixed Signs.**
 
 Jin-Yi Cai, Austen Z. Fan, Yin Liu.
 
@@ -39,7 +39,7 @@ Jin-Yi Cai, Austen Z. Fan, Yin Liu.
 
 <br />
 
-**A Prioritized Trajectory Planning Algorithm for Connected and Automated Vehicle Mandatory Lane Changes.**
+* **A Prioritized Trajectory Planning Algorithm for Connected and Automated Vehicle Mandatory Lane Changes.**
 
 Nachuan Li, Austen Z. Fan, Riley Fischer, Wissam Kontar, Bin Ran
 
@@ -47,7 +47,7 @@ Nachuan Li, Austen Z. Fan, Riley Fischer, Wissam Kontar, Bin Ran
 
 <br />
 
-**Dichotomy Result on 3-Regular Bipartite Non-negative Functions.**
+* **Dichotomy Result on 3-Regular Bipartite Non-negative Functions.**
 
 Austen Z. Fan, Jin-Yi Cai
 
