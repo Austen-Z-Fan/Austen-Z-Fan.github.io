@@ -11,13 +11,11 @@ slug: /research
 
   *Accepted by International Colloquium on Automata, Languages and Programming, 2023.*
 
-<br />
-
 * **Properties of Position Matrices and Their Elections.**
 
-Niclas Boehmer, Jin-Yi Cai, Piotr Faliszewski, Austen Z. Fan, Andrzej Kaczmarczyk, Tomasz Was.
+  Niclas Boehmer, Jin-Yi Cai, Piotr Faliszewski, Austen Z. Fan, Andrzej Kaczmarczyk, Tomasz Was.
 
-*Accepted by AAAI Conference on Artificial Intelligence, 2023.*
+  *Accepted by AAAI Conference on Artificial Intelligence, 2023.*
 
 <br />
 
