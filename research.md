@@ -51,6 +51,12 @@ Dichotomy Result on 3-Regular Bipartite Non-negative Functions.
 
 **Austen Z. Fan**, Jin-Yi Cai
 
+*Accepted by International Computer Science Symposium in Russia, 2021.*
+
+*Accepted by Theoretical Computer Science.*
+
+<br />
+
 ### Services
 Subreviewer: ESA 2023
 
