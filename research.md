@@ -22,7 +22,7 @@ slug: /research
 
   **Austen Z. Fan**, Paraschos Koutris.
 
-  *Accepted by International Conference on Database Theory, 2022.*
+  *Accepted by International Conference on Database Theory, 2022.* [\[Slides\]](assets/slides/ICDT_2022_Presentation.pdf)
 
   *Talk on Database Affiliate Workshop @UW-Madison, 2022.*  [\[Slides\]](assets/slides/ICDT_2022_Presentation.pdf)
 
@@ -31,7 +31,7 @@ slug: /research
 
   Jin-Yi Cai, **Austen Z. Fan**, Yin Liu.
 
-  *Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* 
+  *Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* [\[Slides\]](assets/slides/FCT_2022_Presentation.pdf)
 
   *Invited to Journal of Computer and System Sciences.*
   
