@@ -24,6 +24,10 @@ slug: /research
 
   *Accepted by International Conference on Database Theory, 2022.*
 
+  *Talk on Database Affiliate Workshop @UW-Madison, 2022*
+
+  [Slides](assets/slides/ICDT_2022_Presentation.pdf)
+
 * [**Bipartite 3-Regular Counting Problems with Mixed Signs.**](https://www.sciencedirect.com/science/article/abs/pii/S0022000023000144)
 
   Jin-Yi Cai, **Austen Z. Fan**, Yin Liu.
@@ -47,8 +51,6 @@ slug: /research
   *Accepted by International Computer Science Symposium in Russia, 2021.*
 
   *Accepted by Theoretical Computer Science.*
-
-  [test](assets/slides/ICDT_2022_Presentation.pdf)
 
 
 ### Service
