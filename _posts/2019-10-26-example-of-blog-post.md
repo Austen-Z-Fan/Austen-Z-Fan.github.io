@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New homepage"
+title:  "Pass my qual"
 date:   2023-06-22 12:40:00
-blurb: "My new homepage."
+blurb: "pass my qual"
 ---
 
-**Welcome!**
+Pass my qual on May, 2023.
