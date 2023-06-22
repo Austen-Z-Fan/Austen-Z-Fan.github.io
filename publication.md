@@ -1,8 +1,17 @@
 ---
-layout: blog
-title: Publication
-slug: /publication
+layout: work
+title: Awards
+slug: /awards
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+Computer Sciences Summer Fellowship @UW-Madison 2022
+<br />
+
+R. Creighton Buck Prize Fund Award @UW-Madison 2021
+<br />
+
+Violet Higgitt Frank Scholarship @UW-Madison 2021
+<br />
+
+Guanghua Scholarship @Shanghai Jiao Tong University 2018
 <br />
