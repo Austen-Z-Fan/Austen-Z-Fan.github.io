@@ -9,7 +9,7 @@ slug: /research
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
 
-  *Accepted by International Colloquium on Automata, Languages and Programming, 2023.*
+  *Accepted by International Colloquium on Automata, Languages and Programming, 2023.* [[Slides](assets/slides/ICALP_2023_Presentation.pdf) by me]
 
 * [**Properties of Position Matrices and Their Elections.**](https://arxiv.org/abs/2303.02538)
 
