@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "ICALP talk"
+title:  "ICALP Talk"
 date:   2023-07-14
-blurb: "ICALP talk"
+blurb: "ICALP Talk"
 ---
 
 Gave a (virtual) talk on ICALP today! Here is my [slide](https://austen-z-fan.github.io/assets/slides/ICALP_2023_Presentation.pdf) for the talk.
