@@ -14,6 +14,8 @@ Board of Directos Office Intern @Fosun, Fall 2017
 
 ### Teaching
 
+Introduction to Algorithms (Honor) TA @UW-Madison, Fall 2023
+
 Database Management Systems TA @UW-Madison Spring 2022, Fall 2021
 
 Applied Calculus IV TA @SJTU Fall 2018
