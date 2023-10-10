@@ -5,6 +5,18 @@ slug: /research
 ---
 
 ### Paper
+* [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://arxiv.org/abs/2310.05385)
+
+  [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Xiating Ouyang](https://pages.cs.wisc.edu/~xouyang/), [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
+
+  *Accepted by Principles of Database Systems, 2024.*
+  
+* [**Restricted Holant Dichotomy on Domains 3 and 4.**](https://arxiv.org/abs/2307.16078)
+
+  [Yin Liu](https://pages.cs.wisc.edu/~yinl/), Austen Z. Fan, [Jin-Yi Cai](https://pages.cs.wisc.edu/~jyc/).
+
+  *Accepted by International Conference on Combinatorial Optimization and Applications, 2023.* 
+  
 * [**The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.**](https://arxiv.org/abs/2304.14557)
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
