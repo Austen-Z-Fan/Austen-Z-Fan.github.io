@@ -65,5 +65,5 @@ slug: /research
 
 
 ### Service
-* Subreviewer: ESA 2023
+* Subreviewer: [STACS 2024](https://stacs2024.limos.fr/), [ESA 2023](https://algo-conference.org/2023/esa/)
 
