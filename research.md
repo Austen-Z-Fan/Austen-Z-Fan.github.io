@@ -5,13 +5,13 @@ slug: /research
 ---
 
 ### Paper
-* [**Tight Bounds of Circuits for Sum-Product Queries.**]()
+* [**Tight Bounds of Circuits for Sum-Product Queries.**](https://dl.acm.org/doi/10.1145/3651588)
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
 
   *Accepted by Principles of Database Systems, 2024.*
   
-* [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://arxiv.org/abs/2310.05385)
+* [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
 
   [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Xiating Ouyang](https://pages.cs.wisc.edu/~xouyang/), [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
 
