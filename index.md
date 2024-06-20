@@ -14,7 +14,7 @@ He started his undergraduate at <a href="https://www.ji.sjtu.edu.cn/">Shanghai J
 </p>
 
 <p>
-He founded and currently lead the <a href="https://win.wisc.edu/organization/bridge-club">Bridge Club (UW-Madison)</a>. 
+He founded and currently leads the <a href="https://win.wisc.edu/organization/bridge-club">Bridge Club (UW-Madison)</a>. 
 </p>
 
 <p>
