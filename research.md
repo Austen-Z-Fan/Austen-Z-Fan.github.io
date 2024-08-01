@@ -53,7 +53,7 @@ slug: /research
 
   *Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* [[Slides](assets/slides/FCT_2021_Presentation.pdf) by me]
 
-  <code style="color : red">Invited to Journal of Computer and System Sciences.</code>
+  $${\color{red}Invited to Journal of Computer and System Sciences.}$$
   
 
 * [**A Prioritized Trajectory Planning Algorithm for Connected and Automated Vehicle Mandatory Lane Changes.**](https://ieeexplore.ieee.org/document/9564913)
