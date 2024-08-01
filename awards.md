@@ -5,7 +5,6 @@ slug: /awards
 ---
 
 **Computer Sciences Summer Fellowship** @UW-Madison 2022
-
 Awarded to first-year graduate students based on academic excellence and the quality of the expected outcomes of the proposed research project.
 
 **R. Creighton Buck Prize Fund Award** @UW-Madison 2021
