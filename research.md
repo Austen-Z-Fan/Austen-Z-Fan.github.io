@@ -11,7 +11,7 @@ slug: /research
 
   *Accepted by Principles of Database Systems, 2024.* [[Slides](assets/slides/PODS_2024_Circuit_Presentation.pdf) by Paris]
 
-  $\color{#f00}{\textsf{lorem ipsum}}$
+  $\textcolor{red}{\textsf{Color didint work .}}$
   
   
 * [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
