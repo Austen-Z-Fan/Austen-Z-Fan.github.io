@@ -10,6 +10,8 @@ slug: /research
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
 
   *Accepted by Principles of Database Systems, 2024.* [[Slides](assets/slides/PODS_2024_Circuit_Presentation.pdf) by Paris]
+
+  $\color{red}{\textsf{lorem ipsum}}$
   
   
 * [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
