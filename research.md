@@ -12,6 +12,8 @@ slug: /research
   *Accepted by Principles of Database Systems, 2024.* [[Slides](assets/slides/PODS_2024_Circuit_Presentation.pdf) by Paris]
 
   $${\color{red}Distinguished \space Paper \space (Invited \space to \space Journal \space of \space the \space ACM).}$$
+
+  <code style="color : red">text</code>
   
 * [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
 
