@@ -10,18 +10,14 @@ slug: /research
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
 
   *Accepted by Principles of Database Systems, 2024.* [[Slides](assets/slides/PODS_2024_Circuit_Presentation.pdf) by Paris]
-
-  $${\color{red}Distinguished \space Paper \space (Invited \space to \space Journal \space of \space the \space ACM).}$$
-
-  <code style="color : red">text</code>
+  
   
 * [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
 
   [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Xiating Ouyang](https://pages.cs.wisc.edu/~xouyang/), [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
 
   *Accepted by Principles of Database Systems, 2024.*
-
-  $${\color{red}Distinguished \space Paper \space (Invited \space to \space ACM \space Transactions \space on \space Database \space Systems).}$$
+  
   
 * [**Restricted Holant Dichotomy on Domains 3 and 4.**](https://arxiv.org/abs/2307.16078)
 
@@ -42,7 +38,7 @@ slug: /research
   [Niclas Boehmer](https://sites.google.com/view/niclas-boehmer/home), [Jin-Yi Cai](https://pages.cs.wisc.edu/~jyc/), [Piotr Faliszewski](https://home.agh.edu.pl/~faliszew/), Austen Z. Fan, [Andrzej Kaczmarczyk](https://akaczmarczyk.com/), [Tomasz Was](https://www.mimuw.edu.pl/~twas/).
 
   *Accepted by AAAI Conference on Artificial Intelligence, 2023.*
-
+  
 
 * [**Certifiable Robustness for Nearest Neighbor Classifiers.**](https://arxiv.org/abs/2201.04770)
 
@@ -58,8 +54,6 @@ slug: /research
   [Jin-Yi Cai](https://pages.cs.wisc.edu/~jyc/), Austen Z. Fan, [Yin Liu](https://pages.cs.wisc.edu/~yinl/).
 
   *Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* [[Slides](assets/slides/FCT_2021_Presentation.pdf) by me]
-
-  $${\color{red}Invited \space to \space Journal \space of \space Computer \space and \space System \space Sciences.}$$
   
 
 * [**A Prioritized Trajectory Planning Algorithm for Connected and Automated Vehicle Mandatory Lane Changes.**](https://ieeexplore.ieee.org/document/9564913)
