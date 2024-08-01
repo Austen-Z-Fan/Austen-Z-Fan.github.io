@@ -4,6 +4,10 @@ title: Awards
 slug: /awards
 ---
 
+**DeWitt Fellowship** @UW-Madison 2024
+
+One-year fellowship awarded to a Ph.D. candidate in database group.
+
 **Computer Sciences Summer Fellowship** @UW-Madison 2022
 
 Awarded to first-year graduate students based on academic excellence and the quality of the expected outcomes of the proposed research project.
