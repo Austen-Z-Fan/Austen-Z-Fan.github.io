@@ -11,7 +11,7 @@ slug: /research
 
   *Accepted by Principles of Database Systems, 2024.* [[Slides](assets/slides/PODS_2024_Circuit_Presentation.pdf) by Paris]
 
-  $\textcolor{red}{\textsf{Color didint work .}}$
+  ***Distinguished Paper (Invited to Journal of the ACM).***
   
   
 * [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
@@ -19,6 +19,8 @@ slug: /research
   [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Xiating Ouyang](https://pages.cs.wisc.edu/~xouyang/), [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
 
   *Accepted by Principles of Database Systems, 2024.*
+
+  ***Distinguished Paper (Invited to ACM Transactions on Database Systems).***
   
   
 * [**Restricted Holant Dichotomy on Domains 3 and 4.**](https://arxiv.org/abs/2307.16078)
@@ -56,6 +58,8 @@ slug: /research
   [Jin-Yi Cai](https://pages.cs.wisc.edu/~jyc/), Austen Z. Fan, [Yin Liu](https://pages.cs.wisc.edu/~yinl/).
 
   *Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* [[Slides](assets/slides/FCT_2021_Presentation.pdf) by me]
+
+  ***Invited to Journal of Computer and System Sciences.***
   
 
 * [**A Prioritized Trajectory Planning Algorithm for Connected and Automated Vehicle Mandatory Lane Changes.**](https://ieeexplore.ieee.org/document/9564913)
