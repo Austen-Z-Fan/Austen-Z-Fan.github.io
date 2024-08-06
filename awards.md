@@ -4,7 +4,7 @@ title: Awards
 slug: /awards
 ---
 
-**DeWitt Fellowship** @UW-Madison 2024
+**DeWitt Graduate Fellowship** @UW-Madison 2024
 
 One-year fellowship awarded to a Ph.D. candidate in Database Group.
 
