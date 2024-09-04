@@ -5,6 +5,13 @@ slug: /research
 ---
 
 ### Paper
+* [**Output-sensitive Conjunctive Query Evaluation.**](https://arxiv.org/abs/2406.07847)
+
+  [Shaleen Deep](https://pages.cs.wisc.edu/~shaleen/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
+
+  *Accepted by Principles of Database Systems, 2025.* 
+
+  
 * [**Tight Bounds of Circuits for Sum-Product Queries.**](https://dl.acm.org/doi/10.1145/3651588)
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
