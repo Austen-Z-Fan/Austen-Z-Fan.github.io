@@ -36,7 +36,7 @@ slug: /research
 
   *Accepted by International Conference on Combinatorial Optimization and Applications, 2023.* 
   
-* [**The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.**](https://arxiv.org/abs/2304.14557)
+* [**The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://drops.dagstuhl.de/storage/00lipics/lipics-vol261-icalp2023/LIPIcs.ICALP.2023.127/LIPIcs.ICALP.2023.127.pdf&ved=2ahUKEwjptLXr6LOIAxVxlYkEHR9KGBUQFnoECBgQAQ&usg=AOvVaw3mGJNy_y-LJNlZEV2M2ImD)
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
 
