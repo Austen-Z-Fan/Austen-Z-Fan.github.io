@@ -9,7 +9,7 @@ Decentralized System Research Intern @Bell Labs, Summer 2023
 
 Data Analyst Intern @CyberInsight, Winter 2018
 
-Board of Directos Office Intern @Fosun, Fall 2017
+Board of Directors Office Intern @Fosun, Fall 2017
 
 
 ### Teaching
