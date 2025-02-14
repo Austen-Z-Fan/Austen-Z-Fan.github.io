@@ -10,7 +10,7 @@ Austen Z. Fan is a fourth-year Ph.D. candidate at <a href="https://www.cs.wisc.e
 </p>
 
 <p>
-He obtained MS in Computer Sciences and MA in Mathematics (Foundations for Research) in 2023 from Madison. Before that, he obtained BS in Computer Sciences and BS in Mathematics, both with Honor-in-the-Major, in 2021 from Madison. He started his undergraduate at <a href="https://www.ji.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in Electrical & Computer Engineering in 2016.
+He obtained M.S. in Computer Sciences and M.A. in Mathematics (Foundations for Research) in 2023 from Madison. Before that, he obtained B.S. in Computer Sciences and B.S. in Mathematics, both with Honor-in-the-Major, in 2021 from Madison. He started his undergraduate at <a href="https://www.ji.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in Electrical & Computer Engineering in 2016.
 </p>
 
 <p>
