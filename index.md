@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Austen Z. Fan is a Ph.D. candidate at <a href="https://www.cs.wisc.edu/">Department of Computer Sciences</a> at University of Wisconsin-Madison. He is extremely fortunate to be co-advised by Professor <a href="https://pages.cs.wisc.edu/~jyc/">Jin-Yi Cai</a> and Professor <a href="https://pages.cs.wisc.edu/~paris/">Paraschos Koutris</a>.
+Austen Z. Fan is a fourth-year Ph.D. candidate at <a href="https://www.cs.wisc.edu/">Department of Computer Sciences</a> at University of Wisconsin-Madison. He is extremely fortunate to be co-advised by Professor <a href="https://pages.cs.wisc.edu/~jyc/">Jin-Yi Cai</a> and Professor <a href="https://pages.cs.wisc.edu/~paris/">Paraschos Koutris</a>.
 </p>
 
 <p>
