@@ -5,7 +5,19 @@ slug: /research
 ---
 
 ### Paper
-* [**Output-sensitive Conjunctive Query Evaluation.**](https://arxiv.org/abs/2406.07847)
+* [**Circuit bounds for Conjunctive Queries with Self-joins.**]()
+
+  Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/)
+
+  *Minor revision requested by Principles of Database Systems, 2025.* 
+
+* [**Circuits and Formulas for Datalog over Semirings.**]()
+
+  Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Sudeepa Roy](https://users.cs.duke.edu/~sudeepa/)
+
+  *Accepted by Principles of Database Systems, 2025.* 
+
+* [**Output-sensitive Conjunctive Query Evaluation.**](https://dl.acm.org/doi/10.1145/3695838)
 
   [Shaleen Deep](https://pages.cs.wisc.edu/~shaleen/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
 
