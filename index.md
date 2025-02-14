@@ -10,11 +10,11 @@ Austen Z. Fan is a Ph.D. candidate at <a href="https://www.cs.wisc.edu/">Departm
 </p>
 
 <p>
-He started his undergraduate at <a href="https://www.ji.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in Electrical & Computer Engineering in 2016. After transferring to Madison, he obtained BSs in Computer Sciences and Mathematics, both with Honor-in-the-Major, in 2021. He continues his graduate study at Madison and obtained MS in Computer Sciences and MA in Mathematics (Foundations for Research) in 2023.
+He obtained MS in Computer Sciences and MA in Mathematics (Foundations for Research) in 2023 from UW-Madison. Before that, he obtained BS in Computer Sciences and BS in Mathematics, both with Honor-in-the-Major, in 2021 from UW-Madison. He started his undergraduate at <a href="https://www.ji.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in Electrical & Computer Engineering in 2016.
 </p>
 
 <p>
-He founded and currently leads the <a href="https://win.wisc.edu/organization/bridge-club">Bridge Club (UW-Madison)</a>. 
+He founded the <a href="https://win.wisc.edu/organization/bridge-club">Bridge Club (UW-Madison)</a>. 
 </p>
 
 <p>
