@@ -5,6 +5,8 @@ slug: /experience
 ---
 
 ### Industry
+Intent-based DEX Project Engineer, 2024-Current
+
 Decentralized System Research Intern @Bell Labs, Summer 2023
 
 Data Analyst Intern @CyberInsight, Winter 2018
