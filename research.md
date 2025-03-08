@@ -9,7 +9,7 @@ slug: /research
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/)
 
-  *Minor revision requested by Principles of Database Systems, 2025.* 
+  *Accepted by Principles of Database Systems, 2025.* 
 
 * [**Circuits and Formulas for Datalog over Semirings.**]()
 
@@ -23,7 +23,6 @@ slug: /research
 
   *Accepted by Principles of Database Systems, 2025.* 
 
-  
 * [**Tight Bounds of Circuits for Sum-Product Queries.**](https://dl.acm.org/doi/10.1145/3651588)
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
@@ -32,7 +31,6 @@ slug: /research
 
   ***Distinguished Paper (Invited to Journal of the ACM).***
   
-  
 * [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
 
   [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Xiating Ouyang](https://pages.cs.wisc.edu/~xouyang/), [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
@@ -40,7 +38,6 @@ slug: /research
   *Accepted by Principles of Database Systems, 2024.*
 
   ***Distinguished Paper (Invited to ACM Transactions on Database Systems).***
-  
   
 * [**Restricted Holant Dichotomy on Domains 3 and 4.**](https://arxiv.org/abs/2307.16078)
 
@@ -62,7 +59,6 @@ slug: /research
 
   *Accepted by AAAI Conference on Artificial Intelligence, 2023.*
   
-
 * [**Certifiable Robustness for Nearest Neighbor Classifiers.**](https://arxiv.org/abs/2201.04770)
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
@@ -80,7 +76,6 @@ slug: /research
 
   ***Invited to Journal of Computer and System Sciences.***
   
-
 * [**A Prioritized Trajectory Planning Algorithm for Connected and Automated Vehicle Mandatory Lane Changes.**](https://ieeexplore.ieee.org/document/9564913)
 
   [Nachuan Li](https://www.linkedin.com/in/nachuanli/), Austen Z. Fan, Riley Fischer, [Wissam Kontar](https://wissamkontar.github.io/), [Bin Ran](https://directory.engr.wisc.edu/cee/Faculty/Ran_Bin/)
