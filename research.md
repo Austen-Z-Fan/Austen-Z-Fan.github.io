@@ -47,6 +47,8 @@ slug: /research
 
   *Accepted by International Conference on Combinatorial Optimization and Applications, 2023.* 
   
+  *Accepted by Theoretical Computer Science.*
+  
 * [**The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems.**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://drops.dagstuhl.de/storage/00lipics/lipics-vol261-icalp2023/LIPIcs.ICALP.2023.127/LIPIcs.ICALP.2023.127.pdf&ved=2ahUKEwjptLXr6LOIAxVxlYkEHR9KGBUQFnoECBgQAQ&usg=AOvVaw3mGJNy_y-LJNlZEV2M2ImD)
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/).
@@ -76,7 +78,7 @@ slug: /research
 
   *Accepted by International Symposium on Fundamentals of Computation Theory, 2021.* [[Slides](assets/slides/FCT_2021_Presentation.pdf) by me]
 
-  ***Invited to Journal of Computer and System Sciences.***
+  ***Invited to and accepted by Journal of Computer and System Sciences.***
   
 * [**A Prioritized Trajectory Planning Algorithm for Connected and Automated Vehicle Mandatory Lane Changes.**](https://ieeexplore.ieee.org/document/9564913)
 
