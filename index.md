@@ -17,4 +17,4 @@ He founded the <a href="https://win.wisc.edu/organization/bridge-club">Bridge Cl
 <p>
 He has a cute <a href="https://gallon-liu.github.io/">dog</a> with <a href="https://yifei-liu-yl.github.io/">Yifei</a>.
 </p>
-Outside of work, he spends time on various activities, including badminton, poker and hiking (backpacking).
+His hobbies include badminton, poker, and hiking (backpacking).
