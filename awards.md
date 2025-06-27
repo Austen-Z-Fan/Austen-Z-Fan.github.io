@@ -6,15 +6,15 @@ slug: /awards
 
 **Best Paper Award** @PODS 2025
 
-Awarded to paper *[Output-sensitive Conjunctive Query Evaluation.](https://dl.acm.org/doi/10.1145/3695838)*
+Awarded to *[Output-sensitive Conjunctive Query Evaluation](https://dl.acm.org/doi/10.1145/3695838)* (and [Output-Optimal Algorithms for Join-Aggregate Queries](https://dl.acm.org/doi/abs/10.1145/3725241) by Xiao Hu).
 
 **Distinguished Paper Award** @PODS 2025
 
-Awarded to paper *[Tight Bounds of Circuits for Sum-Product Queries.](https://dl.acm.org/doi/10.1145/3651588)*
+Awarded to *[Tight Bounds of Circuits for Sum-Product Queries](https://dl.acm.org/doi/10.1145/3651588)* (along others).
 
 **Distinguished Paper Award** @PODS 2024
 
-Awarded to paper *[Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.](https://dl.acm.org/doi/10.1145/3651138)*
+Awarded to *[Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization](https://dl.acm.org/doi/10.1145/3651138)* (along others).
 
 **DeWitt Graduate Fellowship** @UW-Madison 2024
 
