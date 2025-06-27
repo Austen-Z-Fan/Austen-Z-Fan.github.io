@@ -4,6 +4,18 @@ title: Awards
 slug: /awards
 ---
 
+**Best Paper Award** @PODS 2025
+
+Awarded to paper *[Output-sensitive Conjunctive Query Evaluation.](https://dl.acm.org/doi/10.1145/3695838)*
+
+**Distinguished Paper Award** @PODS 2025
+
+Awarded to paper *[Tight Bounds of Circuits for Sum-Product Queries.](https://dl.acm.org/doi/10.1145/3651588)*
+
+**Distinguished Paper Award** @PODS 2024
+
+Awarded to paper *[Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.](https://dl.acm.org/doi/10.1145/3651138)*
+
 **DeWitt Graduate Fellowship** @UW-Madison 2024
 
 One-year fellowship awarded to a Ph.D. candidate in Database Group.
