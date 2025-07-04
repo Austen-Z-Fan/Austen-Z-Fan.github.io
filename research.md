@@ -35,7 +35,7 @@ slug: /research
   
 * [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
 
-  [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Xiating Ouyang](https://pages.cs.wisc.edu/~xouyang/), [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
+  [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Xiating Ouyang](https://pages.cs.wisc.edu/~xouyang/), [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).[[Slides](assets/slides/PODS_2024_CQ_Negation.pdf) by Paris]
 
   *Accepted by Principles of Database Systems, 2024.*
 
