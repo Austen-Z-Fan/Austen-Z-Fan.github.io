@@ -5,6 +5,14 @@ slug: /research
 ---
 
 ### Paper
+* [**Output-sensitive Conjunctive Query Evaluation.**](https://dl.acm.org/doi/10.1145/3695838)
+
+  [Shaleen Deep](https://pages.cs.wisc.edu/~shaleen/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
+
+  *Accepted by Principles of Database Systems, 2025.* [[Slides](assets/slides/PODS_2025_Output_Sensitive.pdf) by Shaleen]
+
+  ***Best Paper Award (Invited to Journal of the ACM).***
+
 * [**Circuit bounds for Conjunctive Queries with Self-joins.**]()
 
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/)
@@ -16,14 +24,6 @@ slug: /research
   Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/), [Sudeepa Roy](https://users.cs.duke.edu/~sudeepa/)
 
   *Accepted by Principles of Database Systems, 2025.* [[Slides](assets/slides/PODS_2025_Datalog_Circuit.pdf) by Sudeepa]
-
-* [**Output-sensitive Conjunctive Query Evaluation.**](https://dl.acm.org/doi/10.1145/3695838)
-
-  [Shaleen Deep](https://pages.cs.wisc.edu/~shaleen/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
-
-  *Accepted by Principles of Database Systems, 2025.* [[Slides](assets/slides/PODS_2025_Output_Sensitive.pdf) by Shaleen]
-
-  ***Best Paper Award.***
 
 * [**Tight Bounds of Circuits for Sum-Product Queries.**](https://dl.acm.org/doi/10.1145/3651588)
 
