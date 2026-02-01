@@ -4,6 +4,10 @@ title: Awards
 slug: /awards
 ---
 
+**Research Highlight Award** @SIGMOD 2025
+
+Awarded to *[Output-sensitive Conjunctive Query Evaluation](https://dl.acm.org/doi/10.1145/3695838)* (along with others).
+
 **Best Paper Award** @PODS 2025
 
 Awarded to *[Output-sensitive Conjunctive Query Evaluation](https://dl.acm.org/doi/10.1145/3695838)* (and [*Output-Optimal Algorithms for Join-Aggregate Queries*](https://dl.acm.org/doi/abs/10.1145/3725241) by [Xiao Hu](https://cs.uwaterloo.ca/~xiaohu/)).

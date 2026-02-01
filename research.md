@@ -5,13 +5,21 @@ slug: /research
 ---
 
 ### Paper
+* [**New Planar Algorithms and a Full Complexity Classification of the Eight-Vertex Model.**]()
+
+  [Jin-Yi Cai](https://pages.cs.wisc.edu/~jyc/), Austen Z. Fan, [Shuai Shao](http://staff.ustc.edu.cn/~wwwucuc/) [Zhuxiao Tang]().
+
+  *Accepted by Symposium on Theory of Computing, 2026.*
+
 * [**Output-sensitive Conjunctive Query Evaluation.**](https://dl.acm.org/doi/10.1145/3695838)
 
   [Shaleen Deep](https://pages.cs.wisc.edu/~shaleen/), [Hangdong Zhao](https://pages.cs.wisc.edu/~hangdong/), Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
 
   *Accepted by Principles of Database Systems, 2025.* [[Slides](assets/slides/PODS_2025_Output_Sensitive.pdf) by Shaleen]
 
-  ***Best Paper Award (Invited to Journal of the ACM).***
+  ***Invited to Journal of the ACM.***
+
+  ***Best Paper Award and SIGMOD Research Highlight Award.***
 
 * [**Circuit bounds for Conjunctive Queries with Self-joins.**]()
 
@@ -31,7 +39,9 @@ slug: /research
 
   *Accepted by Principles of Database Systems, 2024.* [[Slides](assets/slides/PODS_2024_Circuit_Presentation.pdf) by Paris]
 
-  ***Distinguished Paper (Invited to Journal of the ACM).***
+  ***Invited to Journal of the ACM.***
+  
+  ***Distinguished Paper.***
   
 * [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
 
@@ -39,7 +49,9 @@ slug: /research
 
   *Accepted by Principles of Database Systems, 2024.*
 
-  ***Distinguished Paper (Invited to ACM Transactions on Database Systems).***
+  ***Invited to and accepted by ACM Transactions on Database Systems.***
+  
+  ***Distinguished Paper Award.***
   
 * [**Restricted Holant Dichotomy on Domains 3 and 4.**](https://arxiv.org/abs/2307.16078)
 
