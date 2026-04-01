@@ -41,7 +41,7 @@ slug: /research
 
   ***Invited to Journal of the ACM.***
   
-  ***Distinguished Paper.***
+  ***Distinguished Paper Award.***
   
 * [**Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization.**](https://dl.acm.org/doi/10.1145/3651138)
 
