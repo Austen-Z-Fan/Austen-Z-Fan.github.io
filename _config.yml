@@ -40,8 +40,8 @@ footer:
     #   username: "@YourTwitterUsername"
     # - name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
-    # - name: LinkedIn
-    #   link: https://www.linkedin.com/in/yifei-liu-a56b67135/
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/zheliang-fan-699723291/
     - name: GitHub
       link: https://github.com/Austen-Z-Fan
     # - name: Dribbble
@@ -50,8 +50,8 @@ footer:
     #   link: /feed.xml
     - name: DBLP
       link: https://dblp.org/pid/279/3249.html
-    - name: Orcid
-      link: https://orcid.org/0000-0001-7714-2195
+    # - name: Orcid
+    #   link: https://orcid.org/0000-0001-7714-2195
     - name: Scholar
       link: https://scholar.google.com/citations?hl=en&user=ePjqD_4AAAAJ
       
