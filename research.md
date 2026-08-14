@@ -5,7 +5,14 @@ slug: /research
 ---
 
 ### Paper
-* [**New Planar Algorithms and a Full Complexity Classification of the Eight-Vertex Model.**]()
+
+* [**Kappa-Join: Combining Vertex Covers for Parallel Joins.**]()
+
+  [Simon Frisk](https://simon-frisk.github.io), Austen Z. Fan, [Paraschos Koutris](https://pages.cs.wisc.edu/~paris/).
+
+  *Accepted by Principles of Database Systems, 2027.*
+
+* [**New Planar Algorithms and a Full Complexity Classification of the Eight-Vertex Model.**](https://dl.acm.org/doi/pdf/10.1145/3798129.3800810)
 
   [Jin-Yi Cai](https://pages.cs.wisc.edu/~jyc/), Austen Z. Fan, [Shuai Shao](http://staff.ustc.edu.cn/~wwwucuc/) [Zhuxiao Tang]().
 
