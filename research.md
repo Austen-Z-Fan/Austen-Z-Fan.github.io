@@ -14,7 +14,7 @@ slug: /research
 
 * [**New Planar Algorithms and a Full Complexity Classification of the Eight-Vertex Model.**](https://dl.acm.org/doi/pdf/10.1145/3798129.3800810)
 
-  [Jin-Yi Cai](https://pages.cs.wisc.edu/~jyc/), Austen Z. Fan, [Shuai Shao](http://staff.ustc.edu.cn/~wwwucuc/) [Zhuxiao Tang]().
+  [Jin-Yi Cai](https://pages.cs.wisc.edu/~jyc/), Austen Z. Fan, [Shuai Shao](http://staff.ustc.edu.cn/~wwwucuc/), [Zhuxiao Tang]().
 
   *Accepted by Symposium on Theory of Computing, 2026.*
 
